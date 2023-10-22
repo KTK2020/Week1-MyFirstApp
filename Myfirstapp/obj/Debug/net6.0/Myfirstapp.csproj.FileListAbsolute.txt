@@ -1,0 +1,14 @@
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\bin\Debug\net6.0\Myfirstapp.exe
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\bin\Debug\net6.0\Myfirstapp.deps.json
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\bin\Debug\net6.0\Myfirstapp.runtimeconfig.json
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\bin\Debug\net6.0\Myfirstapp.dll
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\bin\Debug\net6.0\Myfirstapp.pdb
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\Myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\Myfirstapp.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\Myfirstapp.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\Myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\Myfirstapp.dll
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\refint\Myfirstapp.dll
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\Myfirstapp.pdb
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\Myfirstapp.genruntimeconfig.cache
+C:\Users\Kasutaja\source\repos\Myfirstapp\Myfirstapp\obj\Debug\net6.0\ref\Myfirstapp.dll
